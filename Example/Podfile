@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LoginPagePod_Tests' do
+  pod 'LoginPagePod', :path => '../'
+  
+  
+end
