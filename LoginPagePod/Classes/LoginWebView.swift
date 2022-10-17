@@ -9,7 +9,7 @@ import UIKit
 import WebKit
 
 @IBDesignable
-class LoginWebView: UIView {
+public class LoginWebView: UIView {
     
     @IBInspectable
     var pathWebView: String = "www.google.com"
